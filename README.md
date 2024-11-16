@@ -16,7 +16,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma&perline=5)](https://skillicons.dev)
 
 ![Zahid Yousaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahid852&show_icons=true&theme=dark)
 
