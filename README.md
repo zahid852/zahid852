@@ -18,10 +18,10 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+![Zahid Yousaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahid852&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahid852&theme=dark)
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
+⭐️ From [zahid852](https://github.com/zahid852)
