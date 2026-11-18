@@ -29,6 +29,6 @@ and keeping apps stable after launch.
 
 Flutter · Dart · BLoC · Provider · GetX · Firebase · REST APIs · WebSockets · SQLite · Kotlin · Swift · Git
 
-**Open to Flutter and mobile engineering roles in Saudi Arabia and remote.** Code walkthroughs of client projects available on request.
+**Open to Flutter and mobile engineering roles in Saudi Arabia and remote.**
 
 [Portfolio](https://zahid-yousaf.vercel.app) · [LinkedIn](https://www.linkedin.com/in/zahidyousaf7/) · zahidyousaf377699@gmail.com
