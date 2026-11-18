@@ -1,27 +1,22 @@
-<h1 align="center">Hi 👋, This is Zahid Yousaf</h1> 
+### Hi, I'm Zahid 👋
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning flutter advance topics.
-- 📫 How to reach me: zahidyousaf377699@gmail.com
-- ⚡ Fun fact: I believe setState() is both a blessing and a curse. 😄
+Flutter developer and mobile engineer in Jeddah, Saudi Arabia. I build iOS and Android apps for fintech,
+marketplaces and e-commerce, and take them from the first conversation to a live release.
 
-### Connect with me:
-<div id="badges">
-  <a href="https://github.com/zahid852">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/zahidyousaf7/">
-    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
-  </a>
-</div>
+**Live on the stores**
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma&perline=5)](https://skillicons.dev)
+| App | What it is | My part | Links |
+|---|---|---|---|
+| TrustFix | Escrow service marketplace | Built the entire Flutter app | [App Store](https://apps.apple.com/us/app/trustfix/id6813843491) · [Google Play](https://play.google.com/store/apps/details?id=com.trust.fix) |
+| NavFi | US personal finance planner | Onboarding, Plaid bank linking, sign-in, maps | [App Store](https://apps.apple.com/us/app/navfi/id6758457128) · [Google Play](https://play.google.com/store/apps/details?id=com.money.navfi) |
+| Zaller | Football club platform | Main Flutter contributor | [App Store](https://apps.apple.com/gb/app/zaller/id6804166435) · [Google Play](https://play.google.com/store/apps/details?id=com.zaller.app) |
+| Hadi Electronics | E-commerce | Sole Flutter developer | [Google Play](https://play.google.com/store/apps/details?id=com.hadiElectronics.hadiElectronics) |
+| Job Pakar | Job marketplace | Sole Flutter developer | [Google Play](https://play.google.com/store/apps/details?id=com.job.pakr) |
+| Cash Logger | Private offline expense tracker | My own app, open source here | [Code](https://github.com/zahid852/cash_logger) · [Google Play](https://play.google.com/store/apps/details?id=com.cashlogger.cashlogger) |
 
-![Zahid Yousaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahid852&show_icons=true&theme=dark)
+Client code is private. **[Cash Logger](https://github.com/zahid852/cash_logger)** is the open one: layered architecture,
+SQLite migrations, encrypted backups and a biometric app lock.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahid852&theme=dark)
+**Work with:** Flutter · Dart · BLoC · Firebase · REST and WebSockets · payments (Korapay, Stripe, Plaid) · Kotlin and Swift platform channels · App Store and Google Play releases
 
-
-<br>
-⭐️ From [zahid852](https://github.com/zahid852)
+📫 zahidyousaf377699@gmail.com · [Portfolio](https://zahid-yousaf.vercel.app) · [LinkedIn](https://www.linkedin.com/in/zahidyousaf7/)
