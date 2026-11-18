@@ -2,7 +2,8 @@
 
 **Flutter Developer & Mobile Engineer** · Jeddah, Saudi Arabia
 
-3+ years building and shipping production iOS and Android apps for fintech, marketplaces and e-commerce.
+Building with Flutter since 2021, and shipping production iOS and Android apps professionally for 3+ years,
+mostly for fintech, marketplaces and e-commerce.
 I work across the full app lifecycle: architecture, payments and real-time features, store releases,
 and keeping apps stable after launch.
 
