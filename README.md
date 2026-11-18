@@ -29,6 +29,6 @@ and keeping apps stable after launch.
 
 Flutter · Dart · BLoC · Provider · GetX · Firebase · REST APIs · WebSockets · SQLite · Kotlin · Swift · Git
 
-Most of my work is client code in private repositories. I'm happy to walk through any of it on a call.
+**Open to Flutter and mobile engineering roles in Saudi Arabia and remote.** Code walkthroughs of client projects available on request.
 
 [Portfolio](https://zahid-yousaf.vercel.app) · [LinkedIn](https://www.linkedin.com/in/zahidyousaf7/) · zahidyousaf377699@gmail.com
