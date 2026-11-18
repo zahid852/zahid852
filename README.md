@@ -1,6 +1,6 @@
 ## Zahid Yousaf
 
-**Flutter Developer & Mobile Engineer** · Jeddah, Saudi Arabia
+**Flutter Developer & Mobile Engineer**
 
 3+ years building and shipping production iOS and Android apps for fintech, marketplaces and e-commerce.
 I work across the full app lifecycle: architecture, payments and real-time features, store releases,
