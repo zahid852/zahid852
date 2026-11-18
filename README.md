@@ -1,6 +1,6 @@
 ## Zahid Yousaf
 
-**Flutter Developer & Mobile Engineer**
+**Flutter Developer & Mobile Engineer** · Jeddah, Saudi Arabia
 
 3+ years building and shipping production iOS and Android apps for fintech, marketplaces and e-commerce.
 I work across the full app lifecycle: architecture, payments and real-time features, store releases,
@@ -27,8 +27,14 @@ and keeping apps stable after launch.
 
 ### Stack
 
-Flutter · Dart · BLoC · Provider · GetX · Firebase · REST APIs · WebSockets · SQLite · Kotlin · Swift · Git
+- **Mobile:** Flutter · Dart · Kotlin · Swift · Platform Channels · Android · iOS
+- **State and architecture:** BLoC · Cubit · Provider · GetX · Riverpod · Clean Architecture · MVVM · get_it · go_router · freezed
+- **Backend services and APIs:** Firebase (Authentication, Firestore, Cloud Messaging, Analytics, Crashlytics) · REST APIs · Dio · WebSockets
+- **Payments and integrations:** Stripe · Korapay · Plaid · Google Maps · Google Sign-In · Apple Sign-In
+- **Data and security:** SQLite · secure storage · local caching
+- **Tools:** Android Studio · Xcode · VS Code · Git · GitHub · Postman · Figma
+- **Release:** App Store Connect · Google Play Console · app signing · staged rollouts
 
-**Open to Flutter and mobile engineering roles in Saudi Arabia and remote.**
+**Open to Flutter and mobile engineering roles in Saudi Arabia and remote.** Code walkthroughs of client projects available on request.
 
 [Portfolio](https://zahid-yousaf.vercel.app) · [LinkedIn](https://www.linkedin.com/in/zahidyousaf7/) · zahidyousaf377699@gmail.com
